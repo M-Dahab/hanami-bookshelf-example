@@ -1,6 +1,6 @@
 # Bookshelf
 
-Welcome to your new Hanami project!
+This is the "getting started" project by [Hanami framework](https://guides.hanamirb.org/introduction/getting-started/).
 
 ## Setup
 
